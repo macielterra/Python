@@ -1,1 +1,0 @@
-print("Boa tarde, Sr. Maciel - O que Deseja?")
